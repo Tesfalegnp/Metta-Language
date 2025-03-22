@@ -54,10 +54,9 @@ You need to implement a function in MeTTa that checks if a given element exists 
 ```lisp
 (is-member '(a b c) 'b)
 ```
+true
 
-
-
-#3. Extracter Function in MeTTa
+# 3. Extracter Function in MeTTa
 
 This project implements a function called `extracter` in MeTTa programming language that filters elements from a list based on a given condition. The function takes a list and a predicate function as inputs, and returns a new list containing only the elements that satisfy the predicate.
 
