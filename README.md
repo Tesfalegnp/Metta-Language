@@ -1,4 +1,4 @@
-# Family Tree Knowledge Representation in MeTTa
+# 1. Family Tree Knowledge Representation in MeTTa
 
 This project implements a **Family Tree** in MeTTa programming language. The tree represents parent-child relationships, and the following tasks are accomplished:
 
@@ -36,7 +36,7 @@ You are given a family tree with the following relationships:
 (Mary John)
 
 
-# `is-member` Function in MeTTa
+# 2. `is-member` Function in MeTTa
 
 This project implements a function called `is-member` in MeTTa programming language, which checks if an element is present in a list. It takes two arguments:
 - A list
@@ -57,7 +57,7 @@ You need to implement a function in MeTTa that checks if a given element exists 
 
 
 
-# Extracter Function in MeTTa
+#3. Extracter Function in MeTTa
 
 This project implements a function called `extracter` in MeTTa programming language that filters elements from a list based on a given condition. The function takes a list and a predicate function as inputs, and returns a new list containing only the elements that satisfy the predicate.
 
